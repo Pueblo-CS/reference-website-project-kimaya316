@@ -10,4 +10,23 @@ h1 {
 } 
 h2 {
     color:rgb(92, 105, 219);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:grey
+}
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+}
+body {
+    background-color: rgb(234, 252, 239);
+}
+a {
+    color:brown;
+}  
+h4 {
+    color: midnightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
